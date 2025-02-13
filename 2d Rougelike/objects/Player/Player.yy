@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Character",
-    "path":"sprites/Character/Character.yy",
+    "name":"Player11",
+    "path":"sprites/Player11/Player11.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -45,6 +45,8 @@
     {"id":{"name":"Character","path":"sprites/Character/Character.yy",},},
     {"id":{"name":"Jet_Boots","path":"sprites/Jet_Boots/Jet_Boots.yy",},},
     {"id":{"name":"Mini_Thrusters","path":"sprites/Mini_Thrusters/Mini_Thrusters.yy",},},
+    {"id":{"name":"Player_Run_Cycle","path":"sprites/Player_Run_Cycle/Player_Run_Cycle.yy",},},
+    {"id":{"name":"Player11","path":"sprites/Player11/Player11.yy",},},
     {"id":{"name":"Shoe_Spikes","path":"sprites/Shoe_Spikes/Shoe_Spikes.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
