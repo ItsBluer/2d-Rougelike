@@ -17,3 +17,8 @@ if jumpkey && place_meeting( x, y +1, Collision2)
 
 if place_meeting(x, y + yspd, Collision2) {yspd = 0};
 y += yspd;
+
+if x > mouse_x  {facing = -1}
+if x < mouse_x  {facing = 1}
+
+image_xscale = facing;
