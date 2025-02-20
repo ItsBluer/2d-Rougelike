@@ -1,4 +1,4 @@
-leftkey = keyboard_check(ord("A"));
+eftkey = keyboard_check(ord("A"));
 
 rightkey = keyboard_check(ord("D"));
 
