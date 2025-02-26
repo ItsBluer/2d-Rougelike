@@ -24,5 +24,8 @@ if x < mouse_x  {facing = 1}
 
 image_xscale = facing;
 
-if xspd = 0 {sprite_index = Player_Idle}
+
+if xspd = 0 {sprite_index = spr_Player_Idle}
 if xspd != 0 {sprite_index = spr_Player_run}
+
+mask_index = spr_Player_Idle;
