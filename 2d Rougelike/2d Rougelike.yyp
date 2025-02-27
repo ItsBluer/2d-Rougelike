@@ -38,6 +38,7 @@
     {"id":{"name":"Shoe_Spikes","path":"sprites/Shoe_Spikes/Shoe_Spikes.yy",},},
     {"id":{"name":"spr_Player_Idle","path":"sprites/spr_Player_Idle/spr_Player_Idle.yy",},},
     {"id":{"name":"spr_Player_run","path":"sprites/spr_Player_run/spr_Player_run.yy",},},
+    {"id":{"name":"spr_Sniper_animation","path":"sprites/spr_Sniper_animation/spr_Sniper_animation.yy",},},
     {"id":{"name":"spr_Sniper","path":"sprites/spr_Sniper/spr_Sniper.yy",},},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},},
     {"id":{"name":"Sprite7","path":"sprites/Sprite7/Sprite7.yy",},},
