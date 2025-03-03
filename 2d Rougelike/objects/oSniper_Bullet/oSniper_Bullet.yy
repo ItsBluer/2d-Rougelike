@@ -1,13 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"oSniper",
+  "%Name":"oSniper_Bullet",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"oSniper",
+  "name":"oSniper_Bullet",
   "overriddenProperties":[],
   "parent":{
     "name":"Gun",
@@ -32,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Sniper",
-    "path":"sprites/spr_Sniper/spr_Sniper.yy",
+    "name":"spr_sniper_bullet",
+    "path":"sprites/spr_sniper_bullet/spr_sniper_bullet.yy",
   },
   "spriteMaskId":null,
   "visible":true,

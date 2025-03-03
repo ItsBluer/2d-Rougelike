@@ -5,4 +5,4 @@ grav = 0.5
 jspd = -10
 facing = 0
 
-helditem = instance_create_layer(x, y, "Instances", oSniper);
+helditem = instance_create_layer(x, y, "Instances_1", oSniper);
